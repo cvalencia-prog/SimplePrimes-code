@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "SimplePrimes-code: code for Simple associated primes of monomial ideals supported by a graph"
+version: "1.1"
+doi: 10.5281/zenodo.24477224
+repository-code: "https://github.com/cvalencia-prog/SimplePrimes-code"
+authors:
+  - family-names: Garcia
+    given-names: Omar
+    affiliation: "Departamento de Matemáticas, Cinvestav-IPN"
+  - family-names: Valencia
+    given-names: Carlos E.
+    affiliation: "Departamento de Matemáticas, Cinvestav-IPN"
