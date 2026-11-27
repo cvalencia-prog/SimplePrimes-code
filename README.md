@@ -32,4 +32,4 @@ Comments and messages in the code are in Spanish.
 
 ## Authors
 
-Omar Garcia and Carlos E. Valencia (Departamento de Matemáticas, Cinvestav-IPN, Mexico City).
+Omar A. Garcia and Carlos E. Valencia (Departamento de Matemáticas, Cinvestav-IPN, Mexico City).
