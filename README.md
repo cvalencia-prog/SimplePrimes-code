@@ -1,6 +1,6 @@
 # SimplePrimes-code
 
-Code for the article *Simple associated primes of monomial ideals supported by a graph*, by O. Garcia and C. E. Valencia.
+Code for the article *Simple associated primes of monomial ideals supported by a graph*, by O. A. Garcia and C. E. Valencia.
 
 A monomial ideal $I$ is *simple* if the components of its irredundant irreducible decomposition have pairwise different radicals.
 These scripts compute the maximal $\infty$-covers of an antichain of exponent vectors (that is, the irreducible components of $I$), decide simplicity, and check the examples and the computational claims of the article.
